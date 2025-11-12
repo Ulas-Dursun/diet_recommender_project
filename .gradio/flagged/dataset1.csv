@@ -1,0 +1,10 @@
+Age,Gender,Weight (kg),Height (cm),Disease Type,Severity,Cholesterol (mg/dL),Blood Pressure (mmHg),Glucose (mg/dL),Physical Activity Level,Weekly Exercise Hours,Dietary Restrictions,Allergies,Preferred Cuisine,Daily Caloric Intake,Adherence to Diet Plan,Recommended Diet Plan,timestamp
+18,Male,0,0,None,Low,0,0,0,Low,0,None,,Turkish,0,1,,2025-05-03 22:12:17.770540
+18,Male,0,180,None,Low,0,0,0,Low,0,None,,Turkish,0,1,,2025-05-03 22:12:25.769705
+18,Male,0,180,Diabetes,Moderate,5,4,3,Low,1,Vegetarian,none,Turkish,5,1.63,,2025-05-03 22:12:55.312431
+18,Male,5,180,Diabetes,Moderate,5,4,3,Low,1,Vegetarian,none,Turkish,5,1.63,,2025-05-03 22:13:04.241675
+19,Male,80,180,None,Low,20,90,20,Low,2,None,no,Turkish,2000,1.61,,2025-05-03 22:15:03.716523
+18,Male,0,0,None,Low,0,0,0,Low,0,None,,Turkish,0,1,,2025-05-03 22:15:56.051703
+18,Male,190,80,None,Low,20,20,20,Low,2,None,none,Turkish,2000,2.4,Balanced,2025-05-03 22:20:26.182800
+18,Male,190,80,None,Low,20,20,20,Low,2,None,acne,Turkish,2000,2.4,Balanced,2025-05-03 22:20:35.449808
+52.8,Male,190,80,Diabetes,Low,20,20,20,Low,0,None,acne,Turkish,4000,2.4,Low_Carb,2025-05-03 22:21:12.605620

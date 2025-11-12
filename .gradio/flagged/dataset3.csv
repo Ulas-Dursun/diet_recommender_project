@@ -1,0 +1,4 @@
+Age,Gender,Weight (kg),Height (cm),Disease Type,Severity,Cholesterol (mg/dL),Blood Pressure (mmHg),Glucose (mg/dL),Physical Activity Level,Weekly Exercise Hours,Dietary Restrictions,Allergies (select all that apply),Preferred Cuisine,Daily Caloric Intake,Adherence to Diet Plan,Recommended Diet Plan,Example Recipes,timestamp
+39.2,Male,70,180,None,Low,100,100,100,Medium,3,Vegan,"[""Dairy"", ""Eggs"", ""Fish""]",Turkish,2000,3,Balanced,"• Grilled chicken + quinoa salad
+• Mediterranean veggie bowl
+• Oatmeal with fruit & yogurt",2025-05-13 13:54:45.058213

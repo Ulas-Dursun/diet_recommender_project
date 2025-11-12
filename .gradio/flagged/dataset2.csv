@@ -1,0 +1,13 @@
+Age,Gender,Weight (kg),Height (cm),Disease Type,Severity,Cholesterol (mg/dL),Blood Pressure (mmHg),Glucose (mg/dL),Physical Activity Level,Weekly Exercise Hours,Dietary Restrictions,Allergies (select all that apply),Preferred Cuisine,Daily Caloric Intake,Adherence to Diet Plan,Recommended Diet Plan,timestamp
+18,Male,80,186,Diabetes,Moderate,20,20,60,Low,2,None,"[""Eggs""]",Turkish,5,1,Low_Carb,2025-05-10 18:31:07.597514
+18,Male,90,200,None,Low,90,20,5,Low,3,None,"[""Eggs"", ""Fish""]",Mediterranean,2000,1,Balanced,2025-05-10 18:33:14.255873
+18,Male,100,190,None,Low,20,20,20,High,3,None,"[""Dairy"", ""Eggs""]",Turkish,3000,1,Balanced,2025-05-10 18:34:13.430506
+18,Male,90,190,None,Low,20,30,20,Low,2,None,"[""Fish"", ""Gluten""]",Turkish,2000,1,Balanced,2025-05-10 21:55:11.873535
+19,Male,20,100,None,Low,0,0,0,Low,0,None,[],Turkish,0,1,Balanced,2025-05-10 21:56:34.018275
+18,Female,100,178,Diabetes,Low,50,30,30,Low,3,Vegan,"[""Eggs"", ""Dairy"", ""Fish""]",Turkish,3000,2.61,Low_Carb,2025-05-10 21:58:37.799593
+33.2,Male,70,180,None,Low,100,100,100,Low,2,Vegetarian,"[""Dairy"", ""Eggs"", ""Fish""]",Turkish,2000,3.17,Balanced,2025-05-10 22:03:06.142645
+18,Male,50,150,None,Low,100,100,100,Low,1,None,"[""Eggs"", ""Fish""]",Turkish,1000,1,Balanced,2025-05-10 22:09:48.664051
+18,Male,60,170,None,Low,20,10,10,Low,1,None,[],Turkish,1000,1,Balanced,2025-05-10 22:16:03.273512
+18,Male,100,190,None,Low,100,100,100,Low,1,None,"[""Eggs"", ""Fish""]",Turkish,1000,5.96,Balanced,2025-05-10 22:20:31.947235
+39.8,Male,100,190,Hypertension,Moderate,100,90,80,Low,2,Vegetarian,"[""Dairy"", ""Eggs"", ""Fish"", ""Gluten""]",Turkish,1500,4.28,Balanced,2025-05-10 22:26:04.434896
+18,Male,100,190,Diabetes,Low,100,100,100,Low,2,None,"[""Dairy"", ""Eggs""]",Turkish,2000,1,Low_Carb,2025-05-10 23:07:03.503460

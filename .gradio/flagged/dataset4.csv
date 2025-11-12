@@ -1,0 +1,27 @@
+Age,Gender,Weight (kg),Height (cm),Disease Type,Severity,Cholesterol (mg/dL),Blood Pressure (mmHg),Glucose (mg/dL),Physical Activity Level,Weekly Exercise Hours,Dietary Restrictions,Allergies (select all that apply),Preferred Cuisine,Daily Caloric Intake,Adherence to Diet Plan,Recommended Diet Plan,Suggested Recipes,timestamp
+44.7,Female,60,170,Cardiac,Moderate,90,100,120,Low,1,None,"[""Dairy"", ""Eggs"", ""Fish"", ""Gluten"", ""Peanuts"", ""Shellfish"", ""Soy"", ""Tree_Nuts""]",Turkish,1500,3.55,Balanced,"### Breakfast
+- Oatmeal with berries & Greek yogurt
+
+### Lunch
+- Grilled chicken + quinoa & mixed-greens salad
+
+### Dinner
+- Mediterranean veggie bowl with hummus & whole-grain pita",2025-05-13 13:56:52.749774
+44.7,Female,60,170,Diabetes,Moderate,90,100,120,Low,0,None,"[""Dairy"", ""Eggs"", ""Fish"", ""Gluten"", ""Peanuts"", ""Shellfish"", ""Soy"", ""Tree_Nuts""]",Turkish,1402,3.55,Low_Carb,"### Breakfast
+- Cheese & spinach omelette, avocado slices
+
+### Lunch
+- Zucchini-noodle turkey Bolognese
+
+### Dinner
+- Salmon fillet with roasted broccoli & almond slivers",2025-05-13 13:57:15.188113
+28.2,Male,70,160,None,Low,200,120,200,Low,0,None,"[""Dairy"", ""Eggs""]",Turkish,1000,7.15,Balanced,"### Breakfast
+- Oatmeal with berries & Greek yogurt
+
+### Lunch
+- Grilled chicken + quinoa & mixed-greens salad
+
+### Dinner
+- Mediterranean veggie bowl with hummus & whole-grain pita",2025-05-13 13:57:59.933669
+18,Male,0,0,None,Low,0,0,0,Low,0,None,[],Turkish,0,1,,,2025-10-03 22:46:24.986893
+18,Male,0,0,None,Low,0,0,0,Low,0,None,[],Turkish,0,1,,,2025-11-12 22:19:57.134920
