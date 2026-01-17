@@ -1,11 +1,22 @@
-# AI‑Based Personalized Diet Recommender System
-Reproducible codebase for SEN4018 Spring 24‑25 project.
+# AI-Based Personalized Diet Recommender
 
-## Kurulum
-git clone <repo‑url>
-cd diet_recommender_project
-python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-python src/train.py            # model eğitimi
-python src/evaluate.py         # test metrikleri
-python app.py                  # Gradio arayüzü
+A machine learning system that analyzes user health and lifestyle data to recommend a personalized diet plan with daily meal suggestions.
+
+The model learns from historical data, performs feature engineering, and serves real-time predictions through an interactive Gradio web interface.
+
+---
+
+## Features
+- End-to-end ML pipeline (preprocessing → training → evaluation)
+- Automatic model training if no trained model is found
+- Real-time diet prediction
+- Daily meal recommendations (Breakfast, Lunch, Dinner)
+- Built-in model evaluation (accuracy & confusion matrix)
+- Web UI powered by Gradio
+
+---
+
+## Tech Stack
+Python, scikit-learn, pandas, joblib, Gradio
+
+---
